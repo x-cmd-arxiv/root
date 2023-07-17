@@ -1,1 +1,1 @@
-xws all.txt | command sed s/\\r$//
+command sed s/\\r$// <$(x wsroot)/.x-cmd/all.txt
