@@ -1,1 +1,1 @@
-command sed s/\\r$// <$(x wsroot)/.x-cmd/all.txt
+command sed s/\\r$// <"$(x wsroot)/.x-cmd/all.txt"
